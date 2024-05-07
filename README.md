@@ -35,6 +35,8 @@ Great (3 points)
  • Great (1 point): Interpret a visualization and explain how it contributes to answering 
 your question. 
 
+The first dashboard includes two visualizations that creates a foundation for answering our underlying question: When are the busiest and least busiest times to travel on the top three airlines in the top 10 major domestic airports? “Top 10 Airports in Terms of Number of Flights”, is a visualization map that compares the ten most trafficked domestic airports. The graph is marked with ten circles, with each dot representing one airport, that vary in size corresponding to their ranking in popularity. For example, Atlanta is the most trafficked airport in the country and thus has the biggest plot on the graph. This visualization allows the reader to better picture where the ten most popular airports are on a map and provides a good idea of how popular each airport is. “Flights Per Month by Airport” also tracks the top ten most popular domestic airports, but compares them by total flights in thousands to a given month. This graph goes one step further than the visualization map. By analyzing each airport by month, we can start to determine when the busiest and least busiest time is to travel. Generally, February and September are the least busy months and you should avoid traveling in November. The graphs indicate that the top three airports in the United States are located in Atlanta, Dallas, and Denver.
+
 ## Section 4:
 Great (3 points) 
  o Find an article related to your questions and summarize the article. 
