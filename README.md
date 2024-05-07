@@ -40,7 +40,7 @@ Great (3 points)
  • Great (1 point): Interpret a visualization and explain how it contributes to answering 
 your question. 
 
-Section 4:
+## Section 4:
 Great (3 points) 
  o Find an article related to your questions and summarize the article. 
  o Ask your questions to generative AI. Include generative AI’s response with your query (Ask as many as possible for proper responses; Mention that the response is generated from which generative AI. For example, ChatGPT) 
