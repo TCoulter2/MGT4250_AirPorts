@@ -1,10 +1,15 @@
-# MGT4250_Airports
- Visualization Application and Repository
+# MGT 4250 Spring 2024 Course Project
+ - This repository is for the course project of MGT 4250 at Elon University.
+ - Our question is “When are the busiest and least busiest times to travel on the top three airlines in the top 10 major domestic airports?”
+ - This is an important question because it is crucial for customers to understand when it may be more challenging to get a seat on a flight or for different airlines and airports to know when they may need to hire more temporary workers to handle the increased demand for people taking flights.
+ - Our data, retrieved from The Bureau of Transportation Statistics, includes passenger and flight data from the top three airlines, American Airlines, Delta Air Lines, and United Airlines, and is filtered to include the top 10 major domestic airports.
 
 ## Section 1:
+
+[Vizualizations](https://elon.edu) 
+
 Great (3 points) 
-o [In your README file] Include a link to your visualization application and mention 
-that this repository is for the course project of MGT 4250 at Elon University, state project questions, and mention their importance with valid references.
+o [In your README file] Include a link to your visualization application and mention that this repository is for the course project of MGT 4250 at Elon University, state project questions, and mention their importance with valid references.
 
 Section 1: Revisit your question and its importance and describe the data that you use
 
