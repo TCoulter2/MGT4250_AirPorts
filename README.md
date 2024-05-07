@@ -21,7 +21,7 @@
      8. Charlotte Douglas International
      9. Phoenix Sky Harbor International
      10. Seattle/Tacoma International
-  - To understand which months to quantify as “busy times'' and “least busiest times” we collected information from a USA Today [article](https://www.usatoday.com/story/travel/flights/2017/02/28/busiest-times-of-year-to-fly/98484452/#:~:text=Answer%3A%20There%20are%20several%20times%20a%20year%20when,holiday%20season%2C%20from%20mid-December%20into%20the%20new%20year.), as well as an AFAR [article](https://www.afar.com/magazine/tsa-just-had-its-busiest-week-ever#:~:text=According%20to%20the%20TSA%2C%20the%20busiest%20travel%20days,nearly%202.9%20million%20passengers%20passed%20through%20TSA%20checkpoints.)
+  - To understand which months to quantify as “busy times'' and “least busiest times” we collected information from a USA Today [article](https://www.usatoday.com/story/travel/flights/2017/02/28/busiest-times-of-year-to-fly/98484452/#:~:text=Answer%3A%20There%20are%20several%20times%20a%20year%20when,holiday%20season%2C%20from%20mid-December%20into%20the%20new%20year.), as well as an AFAR [article](https://www.afar.com/magazine/tsa-just-had-its-busiest-week-ever#:~:text=According%20to%20the%20TSA%2C%20the%20busiest%20travel%20days,nearly%202.9%20million%20passengers%20passed%20through%20TSA%20checkpoints.).
   - Understanding this will allow us to further analyze our data and understand different trends within our data. 
 
 
