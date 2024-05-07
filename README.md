@@ -24,9 +24,6 @@
   - Understanding this will allow us to further analyze our data and understand different trends within our data. 
 
 
-Great (3 points) 
-o [In your README file] Include a link to your visualization application and mention that this repository is for the course project of MGT 4250 at Elon University, state project questions, and mention their importance with valid references.
-
 ## Section 2:
 Great (3 points) 
  o [In your README file] Provide instructions about how to access and download your data correctly. 
