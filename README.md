@@ -24,13 +24,13 @@ This information was collected from the Bureau of Transportation Statistics, Enp
 
 To understand which months to quantify as “busy times'' and “least busiest times” we collected information from a USA Today article titled, “Ask Air Traffic Control: Busiest times of year to fly” as well as an AFAR article titled “These Are the Busiest Travel Days of the Year, According to TSA''. Understanding this will allow us to further analyze our data and understand different trends within our data. 
 
-Section 2:
+## Section 2:
 Great (3 points) 
  o [In your README file] Provide instructions about how to access and download your data correctly. 
  o [In your README file] Explain the data types and descriptions of the columns used in visualizations. 
  o [In the Github repo] Upload all data files for your visualization
 
-Section 3:
+## Section 3:
  [In your README file] For each visualization, 
  • Great (1 point): Interpret a visualization and explain how it contributes to answering 
 your question. 
