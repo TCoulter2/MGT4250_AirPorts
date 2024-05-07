@@ -21,27 +21,12 @@
      8. Charlotte Douglas International
      9. Phoenix Sky Harbor International
      10. Seattle/Tacoma International
+  - To understand which months to quantify as “busy times'' and “least busiest times” we collected information from a USA Today [article](https://www.usatoday.com/story/travel/flights/2017/02/28/busiest-times-of-year-to-fly/98484452/#:~:text=Answer%3A%20There%20are%20several%20times%20a%20year%20when,holiday%20season%2C%20from%20mid-December%20into%20the%20new%20year.), as well as an AFAR [article](https://www.afar.com/magazine/tsa-just-had-its-busiest-week-ever#:~:text=According%20to%20the%20TSA%2C%20the%20busiest%20travel%20days,nearly%202.9%20million%20passengers%20passed%20through%20TSA%20checkpoints.)
+  - Understanding this will allow us to further analyze our data and understand different trends within our data. 
+
 
 Great (3 points) 
 o [In your README file] Include a link to your visualization application and mention that this repository is for the course project of MGT 4250 at Elon University, state project questions, and mention their importance with valid references.
-
-Section 1: Revisit your question and its importance and describe the data that you use
-
-Our question is “When are the busiest and least busiest times to travel on the top three airlines in the top 10 major domestic airports?” This is an important question because it is crucial for customers to understand when it may be more challenging to get a seat on a flight or for different airlines and airports to know when they may need to hire more temporary workers to handle the increased demand for people taking flights. Our data, retrieved from The Bureau of Transportation Statistics, includes passenger and flight data from the top three airlines, American Airlines, Delta Air Lines, and United Airlines, and is filtered to include the top 10 major domestic airports. 
-The top 10 major domestic airports:
-Hartsfield-Jackson Atlanta International
-Denver International
-Dallas/Fort Worth International
-Chicago O’Hare International
-Los Angeles International
-Harry Reid International
-Orlando International
-Charlotte Douglas International
-Phoenix Sky Harbor International
-Seattle/Tacoma International
-This information was collected from the Bureau of Transportation Statistics, Enplanements Per Airport Report.  
-
-To understand which months to quantify as “busy times'' and “least busiest times” we collected information from a USA Today article titled, “Ask Air Traffic Control: Busiest times of year to fly” as well as an AFAR article titled “These Are the Busiest Travel Days of the Year, According to TSA''. Understanding this will allow us to further analyze our data and understand different trends within our data. 
 
 ## Section 2:
 Great (3 points) 
