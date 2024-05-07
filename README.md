@@ -2,11 +2,11 @@
  Visualization Application and Repository
 
 ## Section 1:
-* * Great (3 points) 
-** o [In your README file] Include a link to your visualization application and mention 
-**that this repository is for the course project of MGT 4250 at Elon University. 
-**o [In your README file] State project questions  
-**o [In your README file] Mention their importance with valid references.
+Great (3 points) 
+o [In your README file] Include a link to your visualization application and mention 
+that this repository is for the course project of MGT 4250 at Elon University. 
+o [In your README file] State project questions  
+o [In your README file] Mention their importance with valid references.
 
 Section 1: Revisit your question and its importance and describe the data that you use
 
