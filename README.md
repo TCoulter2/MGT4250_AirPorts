@@ -11,16 +11,16 @@
  - This is an important question because it is crucial for customers to understand when it may be more challenging to get a seat on a flight or for different airlines and airports to know when they may need to hire more temporary workers to handle the increased demand for people taking flights.
  - Our data, retrieved from The Bureau of Transportation Statistics, includes passenger and flight data from the top three airlines, American Airlines, Delta Air Lines, and United Airlines, and is filtered to include the top 10 major domestic airports.
    - The top 10 major domestic airports:
-    1. Hartsfield-Jackson Atlanta International
-    2. Denver International
-    3. Dallas/Fort Worth International
-    4. Chicago O’Hare International
-    5. Los Angeles International
-    6. Harry Reid International
-    7. Orlando International
-    8. Charlotte Douglas International
-    9. Phoenix Sky Harbor International
-    10. Seattle/Tacoma International
+     1. Hartsfield-Jackson Atlanta International
+     2. Denver International
+     3. Dallas/Fort Worth International
+     4. Chicago O’Hare International
+     5. Los Angeles International
+     6. Harry Reid International
+     7. Orlando International
+     8. Charlotte Douglas International
+     9. Phoenix Sky Harbor International
+     10. Seattle/Tacoma International
 
 Great (3 points) 
 o [In your README file] Include a link to your visualization application and mention that this repository is for the course project of MGT 4250 at Elon University, state project questions, and mention their importance with valid references.
