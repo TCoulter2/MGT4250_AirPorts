@@ -38,7 +38,11 @@ Great (3 points)
      8. Charlotte Douglas International
      9. Phoenix Sky Harbor International
      10. Seattle/Tacoma International
-- We gathered data from the "Flights" section and filtered the data set based on the above criteria. After downloading the data sets for each airline and for each airport, we then uploaded our data into an Excel spreadsheet, ensuring there are no errors in the data and combined all the data sets we retrieved.  
+- We gathered data from the "Flights" section and filtered the data set based on the above criteria. After downloading the data sets for each airline and for each airport, we then uploaded our data into an Excel spreadsheet, ensuring there are no errors in the data and combined all the data sets we retrieved.
+
+| Column | Description | Data Type |
+____________________________________
+
 
  o [In your README file] Provide instructions about how to access and download your data correctly. 
  o [In your README file] Explain the data types and descriptions of the columns used in visualizations. 
