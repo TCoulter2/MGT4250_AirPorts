@@ -50,22 +50,22 @@ The final dashboard, "Impact of COVID-19 on Air Travel", displays two visualizat
 ### Summarized Article
 The article from [Upgraded Points](https://upgradedpoints.com/travel/best-and-worst-days-to-fly/) provides a look into the best and worst days to fly to help travelers better their flight schedules. Here's a summary:
 - Best Days to Fly:
- - Tuesday, Wednesday: These are typically the cheapest days to fly due to lower demand. Airlines often offer discounted fares to fill seats on these less popular travel days.
- - Saturday: Similar to Tuesdays and Wednesdays, Saturdays often have lower demand, making them another cost-effective option for flying.
+  - Tuesday, Wednesday: These are typically the cheapest days to fly due to lower demand. Airlines often offer discounted fares to fill seats on these less popular travel days.
+  - Saturday: Similar to Tuesdays and Wednesdays, Saturdays often have lower demand, making them another cost-effective option for flying.
 
  - Worst Days to Fly:
-  - Friday: Friday is popular for business travelers to return from the workweek
-  - Sunday: While Sunday sees high volumes of leisure travelers returning home from weekend getaways.
-  - Monday: Mondays tend to be busy as business travelers head out for the workweek. Additionally, flights on Monday mornings are often more expensive than later in the day.
-  - Thursday: Thursday mornings can be busy with business travelers.
-  - Saturday Mornings: Wile Saturday mornings can see higher fares due to leisure travelers starting their weekend trips.
-  - Around major events: Major events will increase air traffic for a certain airports. Planning around them can make for better departure dates.
+   - Friday: Friday is popular for business travelers to return from the workweek
+   - Sunday: While Sunday sees high volumes of leisure travelers returning home from weekend getaways.
+   - Monday: Mondays tend to be busy as business travelers head out for the workweek. Additionally, flights on Monday mornings are often more expensive than later in the day.
+   - Thursday: Thursday mornings can be busy with business travelers.
+   - Saturday Mornings: Wile Saturday mornings can see higher fares due to leisure travelers starting their weekend trips.
+   - Around major events: Major events will increase air traffic for a certain airports. Planning around them can make for better departure dates.
  
  - Additional Tips:
-  - Flexibility: Being flexible with travel dates can help find better deals. Adjusting departure or return dates by a day or two can sometimes result in significant savings.
-  - Book in Advance: Booking flights well in advance can often secure lower fares, especially for popular travel dates and routes.
-  - Use Fare Comparison Tools: Utilize fare comparison tools and apps to compare prices across different airlines and dates to find the best deals.
-  - Avoid Peak Travel Seasons: If possible, avoid traveling during peak seasons such as holidays and school breaks when demand is highest and fares are typically more expensive.
+   - Flexibility: Being flexible with travel dates can help find better deals. Adjusting departure or return dates by a day or two can sometimes result in significant savings.
+   - Book in Advance: Booking flights well in advance can often secure lower fares, especially for popular travel dates and routes.
+   - Use Fare Comparison Tools: Utilize fare comparison tools and apps to compare prices across different airlines and dates to find the best deals.
+   - Avoid Peak Travel Seasons: If possible, avoid traveling during peak seasons such as holidays and school breaks when demand is highest and fares are typically more expensive.
 
 The article offers good insights for travelers looking to save money and reduce the stress of air travel by strategically planning their flight. This is very similar to what we are asking and 
 
