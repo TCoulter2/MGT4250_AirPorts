@@ -3,7 +3,7 @@
  - [Vizualizations](https://elon.edu) 
 
 
-## Section 1:
+## Section 1: 
 
 [Vizualizations](https://elon.edu) 
 
