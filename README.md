@@ -1,6 +1,6 @@
 # MGT 4250 Spring 2024 Course Project
  - This repository is for the course project of MGT 4250 at Elon University.
- - [Vizualizations](https://elon.edu) 
+ - [Vizualizations](https://public.tableau.com/views/AirTravelVisuals/COVIDImpact?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 
 
 ## Section 1: 
@@ -38,8 +38,7 @@
      10. Seattle/Tacoma International
 - We gathered data from the "Flights" section and filtered the data set based on the above criteria. After downloading the data sets for each airline and for each airport, we then uploaded our data into an Excel spreadsheet, ensuring there are no errors in the data and combined all the data sets we retrieved.
 
-**Data Description**
-
+**Data Description**                                                                                                                                                                                                  
 <img width="550" alt="Data Descriptions" src="https://github.com/TCoulter2/MGT4250_AirPorts/assets/168772702/263fa359-4f71-49e9-9a5d-b348c2de17ee">
 
 
