@@ -1,6 +1,6 @@
 # MGT 4250 Spring 2024 Course Project
 
-## Section 1: 
+## Section 1: Project Description
 This repository is for the course project of MGT 4250 at Elon University.
  - [Air Travel Vizualizations](https://public.tableau.com/views/AirTravelVisuals/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 
@@ -19,7 +19,7 @@ Our analysis also focuses on the top 10 major domestic airports:
      9. Phoenix Sky Harbor International
      10. Seattle/Tacoma International
 
-## Section 2:
+## Section 2: Data Description & Upload
 Our data used in our analysis was retrieved from [The Bureau of Transportation Statistics](https://www.bts.gov/topics/airlines-and-airports/quick-links-popular-air-carrier-statistics). It includes passenger and flight data from the top three airlines and is filtered to include the top 10 major domestic airports.
 We first went to the "Flights" section to gather the data on the number of flights, and filtered the data set based on the above criteria. We repeated this step, going to the "Passengers" section to gather the data on the number of passengers, and filtered that data set based on the above criteria as well. After downloading the data sets for each airline and for each airport, we then uploaded our data into an Excel spreadsheet, ensuring there are no errors in the data and combined all the data sets we retrieved. 
 
@@ -29,7 +29,7 @@ We first went to the "Flights" section to gather the data on the number of fligh
 Refer to "Airline Data.xlsx" to view final data set used in creating visualizations. 
 
 
-## Section 3:
+## Section 3: Interpreting Visualizations
 
 The first dashboard, "Top 10 Aiports", includes two visualizations that creates a foundation for answering our underlying question: When are the busiest and least busiest times to travel on the top three airlines in the top 10 major domestic airports? “Top 10 Airports by Sum of Flights”, is a treemap that compares the ten most trafficked domestic airports. The visualization is marked with ten sections, with each section representing one airport, that vary in size corresponding to their ranking in terms of number of flights. For example, Atlanta is the most trafficked airport in the country and thus has the biggest plot on the graph. This visualization allows the reader to better picture the ten most popular airports, in comparison to each airport and provides a good idea of how popular each airport is. “Flights Per Month by Airport” also tracks the top ten most popular domestic airports, but compares them by total flights in thousands to a given month. This graph goes one step further than the treemap. By analyzing each airport by month, we can start to determine when the busiest and least busiest time is to travel. Generally, February and September are the least busy months and you should avoid traveling in November. The graphs indicate that the top three airports in the United States are located in Atlanta, Dallas, and Chicago.
 
@@ -37,7 +37,7 @@ The next dashboard, "Best Time to Fly", includes two visualizations that compare
 
 The final dashboard, "Impact of COVID-19 on Air Travel", displays two visualizations. “COVID-19 Impact on Sum of Flights” compares the sum of domestic flights, in thousands, to each month in the years 2019 to 2021. “COVID-19 Impact on Sum of Passengers” measures each month with the same timeframe but instead, tracks the sum of domestic passengers in millions. Both of these graphs include data from the three biggest airlines in the United States: American Airlines, Delta Airlines, and United Airlines. These visualizations are different from our previous dashboards because the data is being presented by year instead of by airline. By combining the three most popular domestic airlines into one line per year (2019,2020,2021), we can better understand how travel has been affected and still is being impacted by COVID. Therefore, when determining when the best and worst times are to travel, in other words our research question, we can compare the previous trends in our graphs to the COVID-19 years. In the “Best Time to Fly” dashboard, we concluded that the holiday season is the worst time to travel and thus should be avoided the most. This trend in our data was consistent in both graphs in the “Impact of COVID-19 on Air Travel" dashboard which furthers the validity of our graphs. If individuals are more inclined to travel during the holiday season in the midst of a pandemic, the same people would be even more inclined to fly without restrictions.
 
-## Section 4:
+## Section 4: Discussion & Summary
 Great (3 points) 
  o Find an article related to your questions and summarize the article. 
  o Ask your questions to generative AI. Include generative AI’s response with your query (Ask as many as possible for proper responses; Mention that the response is generated from which generative AI. For example, ChatGPT) 
@@ -46,7 +46,7 @@ Great (3 points)
 ### Summarized Article
 
 ### ChatGPT
- - We asked Chat GPT our question ans it came back with this response.
+We asked Chat GPT our question and it came back with this response.
  - Determining the busiest and least busy times to travel on specific airlines at the top 10 major domestic airports can vary depending on numerous factors such as time of year, day of the week, holidays, and current events. However, I can provide some general insights based on typical travel patterns and historical data.
 
  - Delta Airlines:
