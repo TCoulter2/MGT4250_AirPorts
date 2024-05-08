@@ -26,8 +26,7 @@
 
 ## Section 2:
 Great (3 points) 
- Our data used in our analysis was retrieved from The Bureau of Transportation Statistics in the Air Carrier Statistics Section. 
- - Our data, retrieved from [The Bureau of Transportation Statistics](https://www.bts.gov/topics/airlines-and-airports/quick-links-popular-air-carrier-statistics), includes passenger and flight data from the top three airlines, American Airlines, Delta Air Lines, and United Airlines, and is filtered to include the top 10 major domestic airports:
+Our data used in our analysis was retrieved from [The Bureau of Transportation Statistics](https://www.bts.gov/topics/airlines-and-airports/quick-links-popular-air-carrier-statistics), includes passenger and flight data from the top three airlines, American Airlines, Delta Air Lines, and United Airlines, and is filtered to include the top 10 major domestic airports:
      1. Hartsfield-Jackson Atlanta International
      2. Denver International
      3. Dallas/Fort Worth International
