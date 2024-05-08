@@ -40,7 +40,7 @@ Great (3 points)
      10. Seattle/Tacoma International
 - We gathered data from the "Flights" section and filtered the data set based on the above criteria. After downloading the data sets for each airline and for each airport, we then uploaded our data into an Excel spreadsheet, ensuring there are no errors in the data and combined all the data sets we retrieved.
 
-<img width="274" alt="Data Descriptions" src="https://github.com/TCoulter2/MGT4250_AirPorts/assets/168772702/263fa359-4f71-49e9-9a5d-b348c2de17ee">
+<img width="500" alt="Data Descriptions" src="https://github.com/TCoulter2/MGT4250_AirPorts/assets/168772702/263fa359-4f71-49e9-9a5d-b348c2de17ee">
 
 
 
