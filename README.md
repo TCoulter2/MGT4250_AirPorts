@@ -51,7 +51,8 @@ Great (3 points)
  o Ask your questions to generative AI. Include generative AI’s response with your query (Ask as many as possible for proper responses; Mention that the response is generated from which generative AI. For example, ChatGPT) 
  o Discuss whether your visualizations align well with the article and generative AI’s response. 
 
-###
+### Summarized Article
+
 ### ChatGPT
  - We asked Chat GPT our question ans it came back with this response.
  - Determining the busiest and least busy times to travel on specific airlines at the top 10 major domestic airports can vary depending on numerous factors such as time of year, day of the week, holidays, and current events. However, I can provide some general insights based on typical travel patterns and historical data.
@@ -66,3 +67,5 @@ Great (3 points)
   -  Busiest Times: American Airlines sees heavy traffic during peak business hours on weekdays, with Mondays and Fridays being particularly busy. Holiday seasons can also result in higher passenger volumes.
   - Least Busy Times: Midday on weekdays and weekends, especially outside of peak travel times and holiday seasons, tend to have fewer travelers.
  - For the top 10 major domestic airports you listed, similar patterns generally apply. However, specific busy and quiet times can vary depending on factors like regional events and local travel patterns. It's always a good idea to check with the airlines directly or utilize travel apps that provide real-time updates on flight schedules and passenger loads for more accurate information.
+
+### Alignment
