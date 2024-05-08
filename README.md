@@ -36,11 +36,12 @@
      8. Charlotte Douglas International
      9. Phoenix Sky Harbor International
      10. Seattle/Tacoma International
-- We gathered data from the "Flights" section and filtered the data set based on the above criteria. After downloading the data sets for each airline and for each airport, we then uploaded our data into an Excel spreadsheet, ensuring there are no errors in the data and combined all the data sets we retrieved.
+- We first went to the "Flights" section to gather the data on the number of flights, and filtered the data set based on the above criteria. We repeated this step, going to the "Passengers" section to gather the data on the number of passengers, and filtered that data set based on the above criteria as well. After downloading the data sets for each airline and for each airport, we then uploaded our data into an Excel spreadsheet, ensuring there are no errors in the data and combined all the data sets we retrieved. 
 
 **Data Description**                                                                                                                                                                                                  
 <img width="550" alt="Data Descriptions" src="https://github.com/TCoulter2/MGT4250_AirPorts/assets/168772702/263fa359-4f71-49e9-9a5d-b348c2de17ee">
 
+Refer to "Airline Data.xlsx" to view final data set used in creating visualizations. 
 
 
  o [In your README file] Provide instructions about how to access and download your data correctly. 
