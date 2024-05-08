@@ -2,7 +2,11 @@
 
 ## Section 1: Project Description
 This repository is for the course project of MGT 4250 at Elon University.
- ![Air Travel Visuals](https://github.com/TCoulter2/MGT4250_AirPorts/assets/168772702/99a3c6d7-8bda-4e73-bc21-c49e5c1d2eaa)
+
+ <p align="center">
+  <img width="460" height="300" src=https://github.com/TCoulter2/MGT4250_AirPorts/assets/168772702/99a3c6d7-8bda-4e73-bc21-c49e5c1d2eaa>
+</p>
+ 
 
 <p align="center"> [Air Travel Vizualizations](https://public.tableau.com/views/AirTravelVisuals/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
