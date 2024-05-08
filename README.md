@@ -1,11 +1,8 @@
 # MGT 4250 Spring 2024 Course Project
- - This repository is for the course project of MGT 4250 at Elon University.
- - [Vizualizations](https://public.tableau.com/views/AirTravelVisuals/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
-
 
 ## Section 1: 
-
-[Vizualizations](https://elon.edu) 
+ - This repository is for the course project of MGT 4250 at Elon University.
+ - [Vizualizations](https://public.tableau.com/views/AirTravelVisuals/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 
  - Our question is “When are the busiest and least busiest times to travel on the top three airlines in the top 10 major domestic airports?”
  - This is an important question because it is crucial for customers to understand when it may be more challenging to get a seat on a flight or for different airlines and airports to know when they may need to hire more temporary workers to handle the increased demand for people taking flights.
