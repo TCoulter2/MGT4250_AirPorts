@@ -4,7 +4,7 @@
 This repository is for the course project of MGT 4250 at Elon University.
 
  <p align="center">
-  <img width="460" height="300" src=https://github.com/TCoulter2/MGT4250_AirPorts/assets/168772702/99a3c6d7-8bda-4e73-bc21-c49e5c1d2eaa>
+  <img width="465" height="400" src=https://github.com/TCoulter2/MGT4250_AirPorts/assets/168772702/99a3c6d7-8bda-4e73-bc21-c49e5c1d2eaa>
 </p>
  
 
