@@ -57,12 +57,12 @@ Great (3 points)
  - Determining the busiest and least busy times to travel on specific airlines at the top 10 major domestic airports can vary depending on numerous factors such as time of year, day of the week, holidays, and current events. However, I can provide some general insights based on typical travel patterns and historical data.
 
  - Delta Airlines:
-  -  Busiest Times: Delta tends to see high volumes of travelers during peak business travel hours (early morning and late afternoon/early evening) on weekdays, especially Mondays and Fridays. Additionally, holiday seasons and school breaks can significantly increase passenger numbers.
-  -  Least Busy Times: Midday on weekdays and weekends, particularly outside of holiday seasons, tend to have fewer travelers.
+   -  Busiest Times: Delta tends to see high volumes of travelers during peak business travel hours (early morning and late afternoon/early evening) on weekdays, especially Mondays and Fridays. Additionally, holiday seasons and school breaks can significantly increase passenger numbers.
+   -  Least Busy Times: Midday on weekdays and weekends, particularly outside of holiday seasons, tend to have fewer travelers.
  - United Airlines:
-  -  Busiest Times: Similar to Delta, United experiences high traffic during peak business travel hours on weekdays. Mondays and Fridays are typically busiest. Holiday seasons also bring increased passenger numbers.
-  -  Least Busy Times: Midday on weekdays and weekends outside of peak travel times usually have fewer passengers.
+   -  Busiest Times: Similar to Delta, United experiences high traffic during peak business travel hours on weekdays. Mondays and Fridays are typically busiest. Holiday seasons also bring increased passenger numbers.
+   -  Least Busy Times: Midday on weekdays and weekends outside of peak travel times usually have fewer passengers.
 - American Airlines:
- -  Busiest Times: American Airlines sees heavy traffic during peak business hours on weekdays, with Mondays and Fridays being particularly busy. Holiday seasons can also result in higher passenger volumes.
- - Least Busy Times: Midday on weekdays and weekends, especially outside of peak travel times and holiday seasons, tend to have fewer travelers.
+  -  Busiest Times: American Airlines sees heavy traffic during peak business hours on weekdays, with Mondays and Fridays being particularly busy. Holiday seasons can also result in higher passenger volumes.
+  - Least Busy Times: Midday on weekdays and weekends, especially outside of peak travel times and holiday seasons, tend to have fewer travelers.
  - For the top 10 major domestic airports you listed, similar patterns generally apply. However, specific busy and quiet times can vary depending on factors like regional events and local travel patterns. It's always a good idea to check with the airlines directly or utilize travel apps that provide real-time updates on flight schedules and passenger loads for more accurate information.
