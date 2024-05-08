@@ -25,9 +25,7 @@
      10. Seattle/Tacoma International
 
 ## Section 2:
-Great (3 points) 
-
-- Our data used in our analysis was retrieved from [The Bureau of Transportation Statistics](https://www.bts.gov/topics/airlines-and-airports/quick-links-popular-air-carrier-statistics), includes passenger and flight data from the top three airlines, American Airlines, Delta Air Lines, and United Airlines, and is filtered to include the top 10 major domestic airports:
+- Our data used in our analysis was retrieved from [The Bureau of Transportation Statistics](https://www.bts.gov/topics/airlines-and-airports/quick-links-popular-air-carrier-statistics). It includes passenger and flight data from the top three airlines, American Airlines, Delta Air Lines, and United Airlines, and is filtered to include the top 10 major domestic airports:
      1. Hartsfield-Jackson Atlanta International
      2. Denver International
      3. Dallas/Fort Worth International
@@ -41,6 +39,7 @@ Great (3 points)
 - We gathered data from the "Flights" section and filtered the data set based on the above criteria. After downloading the data sets for each airline and for each airport, we then uploaded our data into an Excel spreadsheet, ensuring there are no errors in the data and combined all the data sets we retrieved.
 
 **Data Description**
+
 <img width="550" alt="Data Descriptions" src="https://github.com/TCoulter2/MGT4250_AirPorts/assets/168772702/263fa359-4f71-49e9-9a5d-b348c2de17ee">
 
 
