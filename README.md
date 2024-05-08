@@ -25,17 +25,7 @@
      10. Seattle/Tacoma International
 
 ## Section 2:
-- Our data used in our analysis was retrieved from [The Bureau of Transportation Statistics](https://www.bts.gov/topics/airlines-and-airports/quick-links-popular-air-carrier-statistics). It includes passenger and flight data from the top three airlines, American Airlines, Delta Air Lines, and United Airlines, and is filtered to include the top 10 major domestic airports:
-     1. Hartsfield-Jackson Atlanta International
-     2. Denver International
-     3. Dallas/Fort Worth International
-     4. Chicago O’Hare International
-     5. Los Angeles International
-     6. Harry Reid International
-     7. Orlando International
-     8. Charlotte Douglas International
-     9. Phoenix Sky Harbor International
-     10. Seattle/Tacoma International
+- Our data used in our analysis was retrieved from [The Bureau of Transportation Statistics](https://www.bts.gov/topics/airlines-and-airports/quick-links-popular-air-carrier-statistics). It includes passenger and flight data from the top three airlines, American Airlines, Delta Air Lines, and United Airlines, and is filtered to include the top 10 major domestic airports.
 - We first went to the "Flights" section to gather the data on the number of flights, and filtered the data set based on the above criteria. We repeated this step, going to the "Passengers" section to gather the data on the number of passengers, and filtered that data set based on the above criteria as well. After downloading the data sets for each airline and for each airport, we then uploaded our data into an Excel spreadsheet, ensuring there are no errors in the data and combined all the data sets we retrieved. 
 
 **Data Description**                                                                                                                                                                                                  
@@ -43,10 +33,6 @@
 
 Refer to "Airline Data.xlsx" to view final data set used in creating visualizations. 
 
-
- o [In your README file] Provide instructions about how to access and download your data correctly. 
- o [In your README file] Explain the data types and descriptions of the columns used in visualizations. 
- o [In the Github repo] Upload all data files for your visualization
 
 ## Section 3:
  [In your README file] For each visualization, 
