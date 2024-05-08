@@ -1,5 +1,5 @@
 # MGT 4250 Spring 2024 Course Project
-Authors: Camden Perkins, Toren Coulter, Jack Halpern
+Authors: Camden Perkins (cperkins12@elon.edu), Toren Coulter(tcoulter2@elon.edu), Jack Halpern (jhalpern3@elon.edu)
 
 ## Section 1: Project Description
 This repository is for the course project of MGT 4250 at Elon University.
